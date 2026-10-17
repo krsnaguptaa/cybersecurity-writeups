@@ -1,13 +1,18 @@
-# My Cybersecurity Journey 🚀
+# My Cybersecurity Journey 🔐
 
-This repository tracks my TryHackMe progress and practical write-ups as I build my skills in offensive and defensive security.
+BCA student from Delhi learning cybersecurity through TryHackMe.
+Documenting everything I learn — concepts, tools and hands-on labs.
 
-## Foundational Modules (Notes & Progress)
-- [x] Module 1: Introduction to Cyber Security
-    - *Note: Blue team = defenders (SOC/SIEM). Red team = attackers.*
-- [x] Module 2: Computer Fundamentals
-- [ ] Module 3: Operating system basics
-- [ ] Module 4: software basics
-- [ ] Module 5: Network Fundamentals
-- [ ] Module 6: How the web works
-- [ ] Module 7: Attack and defenses
+## Completed
+- [x] Pre Security Path ✅ (31 labs, Oct 2026)
+
+## In Progress
+- [ ] Cyber Security 101
+
+## Write-ups
+- [Module 5 - Networking](module5-networking/)
+- [Module 6 - Web Basics](module6-web/)
+
+## Connect
+- LinkedIn: linkedin.com/in/krishna-gupta-3846463a1
+- TryHackMe: tryhackme.com/p/krsnaguptaa
