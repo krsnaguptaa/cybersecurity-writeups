@@ -14,5 +14,5 @@ Documenting everything I learn — concepts, tools and hands-on labs.
 - [Module 6 - Web Basics](module6-web/)
 
 ## Connect
-- LinkedIn: linkedin.com/in/krishna-gupta-3846463a1
+- LinkedIn: www.linkedin.com/in/krishna-gupta-3846463a1
 - TryHackMe: tryhackme.com/p/krsnaguptaa
